@@ -70,7 +70,7 @@ Each model's performance is evaluated based on:
 - Deployment of the model using Flask or FastAPI
 
 ## 🤝 Contributions
-This project is solely developed by **Pritam Sarkar**. Feel free to fork the repository and contribute to further enhancements!
+This project is solely developed by **Shrabaita Bandopadhyay**. Feel free to fork the repository and contribute to further enhancements!
 
 ## 📧 Contact
 For any queries, reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or email: your-email@example.com.
