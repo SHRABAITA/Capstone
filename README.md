@@ -50,7 +50,7 @@ Each model's performance is evaluated based on:
 ## 🚀 Future Enhancements
 - Feature engineering to improve model performance
 - Hyperparameter tuning for optimal model selection
-- Deployment of the model using Flask or FastAPI
+- Deployment of the model using Flask or FastAPI 
 
 ## 🤝 Contributions
 This project is solely developed by **Shrabaita Bandopadhyay**. Feel free to fork the repository and contribute to further enhancements!
