@@ -45,24 +45,7 @@ Each model's performance is evaluated based on:
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost, Imbalanced-learn
 - **Notebook Environment:** Jupyter Notebook
 
-## 📂 Project Structure
-```
-📦 Retail_Customer_Churn
-├── 📄 notebook_final.ipynb   # Jupyter Notebook with full analysis and model building
-├── 📄 Dataset_for_Capstone.csv  # Dataset used for training models
-├── 📄 README.md  # Project documentation
-```
 
-## 🎯 How to Run the Project
-1. Clone the repository:
-   ```sh
-   git clone git@github.com:your-username/Capstone.git
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd Capstone
-   ```
-3. Open `notebook_final.ipynb` in Jupyter Notebook and run all cells to see the analysis and model results.
 
 ## 🚀 Future Enhancements
 - Feature engineering to improve model performance
@@ -73,9 +56,9 @@ Each model's performance is evaluated based on:
 This project is solely developed by **Shrabaita Bandopadhyay**. Feel free to fork the repository and contribute to further enhancements!
 
 ## 📧 Contact
-For any queries, reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or email: your-email@example.com.
+For any queries, reach out via [LinkedIn](https://www.linkedin.com/in/shrabaita-bandopadhyay-963a57134/) or email: bshrabaita@gmail.com.
 
 ---
 
-✅ **Now your GitHub repository will look professional with this README!** 🎉 Let me know if you'd like any modifications. 🚀
+
 
